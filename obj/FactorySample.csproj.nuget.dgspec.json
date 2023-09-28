@@ -1,31 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Developer\\RepositorioEstudos\\EstudosGerais\\FactorySample\\FactorySample.csproj": {}
+    "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\FactorySample\\FactorySample.csproj": {}
   },
   "projects": {
-    "D:\\Developer\\RepositorioEstudos\\EstudosGerais\\FactorySample\\FactorySample.csproj": {
+    "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\FactorySample\\FactorySample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Developer\\RepositorioEstudos\\EstudosGerais\\FactorySample\\FactorySample.csproj",
+        "projectUniqueName": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\FactorySample\\FactorySample.csproj",
         "projectName": "FactorySample",
-        "projectPath": "D:\\Developer\\RepositorioEstudos\\EstudosGerais\\FactorySample\\FactorySample.csproj",
-        "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-        "outputPath": "D:\\Developer\\RepositorioEstudos\\EstudosGerais\\FactorySample\\obj\\",
+        "projectPath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\FactorySample\\FactorySample.csproj",
+        "packagesPath": "C:\\Users\\mvoze\\.nuget\\packages\\",
+        "outputPath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\FactorySample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mvoze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -18,3 +18,4 @@ D:\Developer\RepositorioEstudos\EstudosGerais\FactorySample\obj\Debug\net5.0\Fac
 D:\Developer\RepositorioEstudos\EstudosGerais\FactorySample\obj\Debug\net5.0\ref\FactorySample.dll
 D:\Developer\RepositorioEstudos\EstudosGerais\FactorySample\obj\Debug\net5.0\FactorySample.pdb
 D:\Developer\RepositorioEstudos\EstudosGerais\FactorySample\obj\Debug\net5.0\FactorySample.genruntimeconfig.cache
+D:\Developer\RepositorioEstudos\EstudosGerais\FactorySample\obj\Debug\net5.0\refint\FactorySample.dll

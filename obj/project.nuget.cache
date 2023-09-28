@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4/0yYOZVnX5bIe+fv1wFZKmvmiXgpLRLE8+x0ymxUvf7DHo77YNG7vH0KOMGJEMVw/E74uQJHvBEcBE7uUHL0g==",
+  "dgSpecHash": "3rrIj5d0Ve29OAc906ll7oFEf/rj7Ftk8cdZx5jxO8Ji4xbYAA7YZc/vuIIUZs1wLLW151FiRcezoPRMQBGEsg==",
   "success": true,
-  "projectFilePath": "D:\\Developer\\RepositorioEstudos\\EstudosGerais\\FactorySample\\FactorySample.csproj",
+  "projectFilePath": "T:\\Developer\\RepositorioEstudos\\EstudosGerais\\FactorySample\\FactorySample.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Micro\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
-    "C:\\Users\\Micro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Micro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mvoze\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
